@@ -1,0 +1,9 @@
+1. Deploy(v)
+2. Cài thư viện
+- Axios: Gọi api
+- React-router-dom: Chuyển trang
+- Css: tailwindcss, style-component, styleX, Emotion,...
+- Library UI: antd,material-ui, chraka-ui, radix,
+- Manage State: Redux,Zustand,recoil,Mobx,...
+- Sever State: RTK Query, React-Query,...
+
