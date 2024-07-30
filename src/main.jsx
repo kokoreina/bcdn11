@@ -15,8 +15,6 @@ import "./config/style/tailwind.css";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={router}>\
-    <App />
-    </RouterProvider>
+    <RouterProvider router={router} />
   </React.StrictMode>,
 )

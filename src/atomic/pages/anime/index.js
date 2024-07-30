@@ -1,5 +1,1 @@
-function Anime (){
-    return (
-        <></>
-    )
-}
+export {default} from "./anime"
